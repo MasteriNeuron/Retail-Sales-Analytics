@@ -1,5 +1,3 @@
-Here’s the improved and visually appealing README-style content with **emojis/icons**:
-
 ---
 
 # **🌟 Retail Sales Analytics Dashboard**
