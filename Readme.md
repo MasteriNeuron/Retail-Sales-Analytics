@@ -1,6 +1,8 @@
 ---
 
 # **Retail Sales Analytics Dashboard**
+![Screenshot 2025-01-27 173628](https://github.com/user-attachments/assets/1f4d02ef-57fb-4f30-880c-545dc567f415)
+
 
 ## **Overview**
 The **Retail Sales Analytics Dashboard** is a comprehensive data analytics application designed to preprocess, analyze, and visualize retail sales data. It also provides an interactive dashboard for exploring sales trends, customer behavior, and product performance. This application is styled with the Indian tricolor theme (saffron, white, and green) to celebrate its identity.
@@ -138,13 +140,19 @@ Generated static visualizations include:
 - **Sales Trend Over Time** (Line Chart)
 - **Sales Heatmap by Region and Product Line** (Heatmap)
 - **Sales by Month** (Bar Chart)
-![alt text](image.png)
+![Screenshot 2025-01-27 172148](https://github.com/user-attachments/assets/7efb8298-3534-4ee2-afc8-67ed17cbcb82)
+
 
 ### **2. Interactive Dashboard**
 The dashboard provides:
 - Interactive filtering.
 - Real-time updates to charts and metrics.
 - Export functionality.
+  ![Screenshot 2025-01-27 164207](https://github.com/user-attachments/assets/7e56ed83-6f7a-4b5c-9465-a1bb224a6852)
+  ![Screenshot 2025-01-27 164013](https://github.com/user-attachments/assets/d0cae10f-5dcc-4249-a097-cfc3d4b800b5)
+
+
+- 
 
 ---
 
@@ -167,7 +175,7 @@ The dashboard provides:
 1. Add user authentication for dashboard access.
 2. Enhance data visualization with more advanced plots.
 3. Extend support for multi-file data preprocessing.
-4. Deploy the application on a cloud platform (e.g., AWS, Heroku).
+4. Deploy the application on a cloud platform (e.g., AWS, Render, Vercel or Azure).
 
 ---
 ## **License**
