@@ -183,5 +183,3 @@ Generated visualizations include:
 This project is licensed under the MIT License.
 
 ---
-
-This README is both **informative** and **visually appealing** with the use of emojis and screenshots. Let me know if you’d like further tweaks!
