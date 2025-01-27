@@ -1,0 +1,334 @@
+2025-01-27 16:06:40,264 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:06:40,277 - INFO -  Preprocessing Started !!
+2025-01-27 16:06:40,279 - INFO - No missing values found in the dataset
+2025-01-27 16:06:40,281 - INFO - No duplicate rows found
+2025-01-27 16:06:40,281 - INFO - Standardizing categorical data
+2025-01-27 16:06:40,283 - INFO - Categorical data standardized
+2025-01-27 16:06:40,283 - INFO - Processing date and time columns
+2025-01-27 16:06:40,315 - INFO - Date and time columns processed
+2025-01-27 16:06:40,315 - INFO - Data preprocessing completed successfully
+2025-01-27 16:06:59,587 - INFO - Starting data analysis...
+2025-01-27 16:06:59,599 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:06:59,600 - INFO - Average sales calculated: $322.97
+2025-01-27 16:06:59,601 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:06:59,602 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:06:59,603 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:06:59,604 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:06:59,605 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:06:59,605 - INFO - Data analysis completed successfully.
+2025-01-27 16:13:57,095 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:13:57,113 - INFO -  Preprocessing Started !!
+2025-01-27 16:13:57,120 - INFO - No missing values found in the dataset
+2025-01-27 16:13:57,121 - INFO - No duplicate rows found
+2025-01-27 16:13:57,121 - INFO - Standardizing categorical data
+2025-01-27 16:13:57,124 - INFO - Categorical data standardized
+2025-01-27 16:13:57,124 - INFO - Processing date and time columns
+2025-01-27 16:13:57,153 - INFO - Date and time columns processed
+2025-01-27 16:13:57,153 - INFO - Data preprocessing completed successfully
+2025-01-27 16:13:57,183 - INFO - Starting data analysis...
+2025-01-27 16:13:57,185 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:13:57,185 - INFO - Average sales calculated: $322.97
+2025-01-27 16:13:57,187 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:13:57,188 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:13:57,188 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:13:57,188 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:13:57,188 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:13:57,188 - INFO - Data analysis completed successfully.
+2025-01-27 16:13:58,265 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-27 16:14:00,607 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:14:00,612 - INFO -  Preprocessing Started !!
+2025-01-27 16:14:00,617 - INFO - No missing values found in the dataset
+2025-01-27 16:14:00,619 - INFO - No duplicate rows found
+2025-01-27 16:14:00,620 - INFO - Standardizing categorical data
+2025-01-27 16:14:00,622 - INFO - Categorical data standardized
+2025-01-27 16:14:00,622 - INFO - Processing date and time columns
+2025-01-27 16:14:00,661 - INFO - Date and time columns processed
+2025-01-27 16:14:00,661 - INFO - Data preprocessing completed successfully
+2025-01-27 16:14:00,688 - INFO - Starting data analysis...
+2025-01-27 16:14:00,688 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:14:00,689 - INFO - Average sales calculated: $322.97
+2025-01-27 16:14:00,690 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:14:00,691 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:14:00,692 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:14:00,693 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:14:00,694 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:14:00,694 - INFO - Data analysis completed successfully.
+2025-01-27 16:14:05,931 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:14:05,937 - INFO -  Preprocessing Started !!
+2025-01-27 16:14:05,939 - INFO - No missing values found in the dataset
+2025-01-27 16:14:05,941 - INFO - No duplicate rows found
+2025-01-27 16:14:05,942 - INFO - Standardizing categorical data
+2025-01-27 16:14:05,943 - INFO - Categorical data standardized
+2025-01-27 16:14:05,944 - INFO - Processing date and time columns
+2025-01-27 16:14:05,979 - INFO - Date and time columns processed
+2025-01-27 16:14:05,979 - INFO - Data preprocessing completed successfully
+2025-01-27 16:14:06,007 - INFO - Starting data analysis...
+2025-01-27 16:14:06,007 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:14:06,008 - INFO - Average sales calculated: $322.97
+2025-01-27 16:14:06,009 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:14:06,010 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:14:06,010 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:14:06,011 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:14:06,012 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:14:06,012 - INFO - Data analysis completed successfully.
+2025-01-27 16:29:19,074 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:29:19,080 - INFO -  Preprocessing Started !!
+2025-01-27 16:29:19,082 - INFO - No missing values found in the dataset
+2025-01-27 16:29:19,085 - INFO - No duplicate rows found
+2025-01-27 16:29:19,085 - INFO - Standardizing categorical data
+2025-01-27 16:29:19,087 - INFO - Categorical data standardized
+2025-01-27 16:29:19,087 - INFO - Processing date and time columns
+2025-01-27 16:29:19,122 - INFO - Date and time columns processed
+2025-01-27 16:29:19,123 - INFO - Data preprocessing completed successfully
+2025-01-27 16:29:19,150 - INFO - Starting data analysis...
+2025-01-27 16:29:19,150 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:29:19,152 - INFO - Average sales calculated: $322.97
+2025-01-27 16:29:19,153 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:29:19,153 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:29:19,154 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:29:19,155 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:29:19,155 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:29:19,155 - INFO - Data analysis completed successfully.
+2025-01-27 16:29:19,660 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-27 16:29:22,063 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:29:22,069 - INFO -  Preprocessing Started !!
+2025-01-27 16:29:22,071 - INFO - No missing values found in the dataset
+2025-01-27 16:29:22,073 - INFO - No duplicate rows found
+2025-01-27 16:29:22,073 - INFO - Standardizing categorical data
+2025-01-27 16:29:22,074 - INFO - Categorical data standardized
+2025-01-27 16:29:22,074 - INFO - Processing date and time columns
+2025-01-27 16:29:22,110 - INFO - Date and time columns processed
+2025-01-27 16:29:22,110 - INFO - Data preprocessing completed successfully
+2025-01-27 16:29:22,138 - INFO - Starting data analysis...
+2025-01-27 16:29:22,139 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:29:22,139 - INFO - Average sales calculated: $322.97
+2025-01-27 16:29:22,141 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:29:22,142 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:29:22,142 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:29:22,143 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:29:22,144 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:29:22,144 - INFO - Data analysis completed successfully.
+2025-01-27 16:34:38,742 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:34:38,748 - INFO -  Preprocessing Started !!
+2025-01-27 16:34:38,749 - INFO - No missing values found in the dataset
+2025-01-27 16:34:38,751 - INFO - No duplicate rows found
+2025-01-27 16:34:38,751 - INFO - Standardizing categorical data
+2025-01-27 16:34:38,752 - INFO - Categorical data standardized
+2025-01-27 16:34:38,752 - INFO - Processing date and time columns
+2025-01-27 16:34:38,792 - INFO - Date and time columns processed
+2025-01-27 16:34:38,792 - INFO - Data preprocessing completed successfully
+2025-01-27 16:34:38,819 - INFO - Starting data analysis...
+2025-01-27 16:34:38,820 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:34:38,821 - INFO - Average sales calculated: $322.97
+2025-01-27 16:34:38,822 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:34:38,822 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:34:38,824 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:34:38,825 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:34:38,827 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:34:38,827 - INFO - Data analysis completed successfully.
+2025-01-27 16:34:39,323 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-27 16:34:41,654 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:34:41,660 - INFO -  Preprocessing Started !!
+2025-01-27 16:34:41,661 - INFO - No missing values found in the dataset
+2025-01-27 16:34:41,664 - INFO - No duplicate rows found
+2025-01-27 16:34:41,664 - INFO - Standardizing categorical data
+2025-01-27 16:34:41,666 - INFO - Categorical data standardized
+2025-01-27 16:34:41,666 - INFO - Processing date and time columns
+2025-01-27 16:34:41,699 - INFO - Date and time columns processed
+2025-01-27 16:34:41,699 - INFO - Data preprocessing completed successfully
+2025-01-27 16:34:41,724 - INFO - Starting data analysis...
+2025-01-27 16:34:41,725 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:34:41,726 - INFO - Average sales calculated: $322.97
+2025-01-27 16:34:41,728 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:34:41,729 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:34:41,729 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:34:41,730 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:34:41,731 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:34:41,731 - INFO - Data analysis completed successfully.
+2025-01-27 16:37:51,650 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:37:51,655 - INFO -  Preprocessing Started !!
+2025-01-27 16:37:51,657 - INFO - No missing values found in the dataset
+2025-01-27 16:37:51,659 - INFO - No duplicate rows found
+2025-01-27 16:37:51,659 - INFO - Standardizing categorical data
+2025-01-27 16:37:51,661 - INFO - Categorical data standardized
+2025-01-27 16:37:51,662 - INFO - Processing date and time columns
+2025-01-27 16:37:51,695 - INFO - Date and time columns processed
+2025-01-27 16:37:51,696 - INFO - Data preprocessing completed successfully
+2025-01-27 16:37:51,721 - INFO - Starting data analysis...
+2025-01-27 16:37:51,722 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:37:51,722 - INFO - Average sales calculated: $322.97
+2025-01-27 16:37:51,722 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:37:51,724 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:37:51,725 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:37:51,725 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:37:51,726 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:37:51,726 - INFO - Data analysis completed successfully.
+2025-01-27 16:57:48,954 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:57:48,960 - INFO -  Preprocessing Started !!
+2025-01-27 16:57:48,962 - INFO - No missing values found in the dataset
+2025-01-27 16:57:48,964 - INFO - No duplicate rows found
+2025-01-27 16:57:48,964 - INFO - Standardizing categorical data
+2025-01-27 16:57:48,966 - INFO - Categorical data standardized
+2025-01-27 16:57:48,966 - INFO - Processing date and time columns
+2025-01-27 16:57:49,005 - INFO - Date and time columns processed
+2025-01-27 16:57:49,006 - INFO - Data preprocessing completed successfully
+2025-01-27 16:57:49,043 - INFO - Starting data analysis...
+2025-01-27 16:57:49,044 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:57:49,045 - INFO - Average sales calculated: $322.97
+2025-01-27 16:57:49,046 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:57:49,047 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:57:49,047 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:57:49,047 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:57:49,048 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:57:49,048 - INFO - Data analysis completed successfully.
+2025-01-27 16:57:49,632 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-27 16:57:52,335 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:57:52,343 - INFO -  Preprocessing Started !!
+2025-01-27 16:57:52,345 - INFO - No missing values found in the dataset
+2025-01-27 16:57:52,347 - INFO - No duplicate rows found
+2025-01-27 16:57:52,348 - INFO - Standardizing categorical data
+2025-01-27 16:57:52,349 - INFO - Categorical data standardized
+2025-01-27 16:57:52,351 - INFO - Processing date and time columns
+2025-01-27 16:57:52,385 - INFO - Date and time columns processed
+2025-01-27 16:57:52,385 - INFO - Data preprocessing completed successfully
+2025-01-27 16:57:52,415 - INFO - Starting data analysis...
+2025-01-27 16:57:52,416 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:57:52,416 - INFO - Average sales calculated: $322.97
+2025-01-27 16:57:52,418 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:57:52,419 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:57:52,421 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:57:52,422 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:57:52,423 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:57:52,423 - INFO - Data analysis completed successfully.
+2025-01-27 16:59:08,615 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:59:08,622 - INFO -  Preprocessing Started !!
+2025-01-27 16:59:08,623 - INFO - No missing values found in the dataset
+2025-01-27 16:59:08,625 - INFO - No duplicate rows found
+2025-01-27 16:59:08,626 - INFO - Standardizing categorical data
+2025-01-27 16:59:08,629 - INFO - Categorical data standardized
+2025-01-27 16:59:08,630 - INFO - Processing date and time columns
+2025-01-27 16:59:08,663 - INFO - Date and time columns processed
+2025-01-27 16:59:08,663 - INFO - Data preprocessing completed successfully
+2025-01-27 16:59:08,691 - INFO - Starting data analysis...
+2025-01-27 16:59:08,691 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:59:08,692 - INFO - Average sales calculated: $322.97
+2025-01-27 16:59:08,692 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:59:08,693 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:59:08,694 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:59:08,694 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:59:08,695 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:59:08,695 - INFO - Data analysis completed successfully.
+2025-01-27 16:59:13,205 - INFO - Loading data from data/sales_data.csv
+2025-01-27 16:59:13,210 - INFO -  Preprocessing Started !!
+2025-01-27 16:59:13,213 - INFO - No missing values found in the dataset
+2025-01-27 16:59:13,215 - INFO - No duplicate rows found
+2025-01-27 16:59:13,215 - INFO - Standardizing categorical data
+2025-01-27 16:59:13,219 - INFO - Categorical data standardized
+2025-01-27 16:59:13,219 - INFO - Processing date and time columns
+2025-01-27 16:59:13,256 - INFO - Date and time columns processed
+2025-01-27 16:59:13,257 - INFO - Data preprocessing completed successfully
+2025-01-27 16:59:13,287 - INFO - Starting data analysis...
+2025-01-27 16:59:13,288 - INFO - Total sales calculated: $322,966.75
+2025-01-27 16:59:13,288 - INFO - Average sales calculated: $322.97
+2025-01-27 16:59:13,289 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 16:59:13,291 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 16:59:13,291 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 16:59:13,293 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 16:59:13,294 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 16:59:13,294 - INFO - Data analysis completed successfully.
+2025-01-27 17:25:11,504 - INFO - Loading data from data/sales_data.csv
+2025-01-27 17:25:11,510 - INFO -  Preprocessing Started !!
+2025-01-27 17:25:11,513 - INFO - No missing values found in the dataset
+2025-01-27 17:25:11,516 - INFO - No duplicate rows found
+2025-01-27 17:25:11,517 - INFO - Standardizing categorical data
+2025-01-27 17:25:11,520 - INFO - Categorical data standardized
+2025-01-27 17:25:11,521 - INFO - Processing date and time columns
+2025-01-27 17:25:11,561 - INFO - Date and time columns processed
+2025-01-27 17:25:11,561 - INFO - Data preprocessing completed successfully
+2025-01-27 17:25:11,588 - INFO - Starting data analysis...
+2025-01-27 17:25:11,589 - INFO - Total sales calculated: $322,966.75
+2025-01-27 17:25:11,589 - INFO - Average sales calculated: $322.97
+2025-01-27 17:25:11,591 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 17:25:11,592 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 17:25:11,594 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 17:25:11,595 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 17:25:11,596 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 17:25:11,596 - INFO - Data analysis completed successfully.
+2025-01-27 17:25:50,231 - INFO - Loading data from data/sales_data.csv
+2025-01-27 17:25:50,236 - INFO -  Preprocessing Started !!
+2025-01-27 17:25:50,238 - INFO - No missing values found in the dataset
+2025-01-27 17:25:50,240 - INFO - No duplicate rows found
+2025-01-27 17:25:50,240 - INFO - Standardizing categorical data
+2025-01-27 17:25:50,242 - INFO - Categorical data standardized
+2025-01-27 17:25:50,242 - INFO - Processing date and time columns
+2025-01-27 17:25:50,282 - INFO - Date and time columns processed
+2025-01-27 17:25:50,282 - INFO - Data preprocessing completed successfully
+2025-01-27 17:25:50,311 - INFO - Starting data analysis...
+2025-01-27 17:25:50,312 - INFO - Total sales calculated: $322,966.75
+2025-01-27 17:25:50,312 - INFO - Average sales calculated: $322.97
+2025-01-27 17:25:50,313 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 17:25:50,314 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 17:25:50,315 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 17:25:50,315 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 17:25:50,316 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 17:25:50,316 - INFO - Data analysis completed successfully.
+2025-01-27 17:26:15,497 - INFO - Loading data from data/sales_data.csv
+2025-01-27 17:26:15,504 - INFO -  Preprocessing Started !!
+2025-01-27 17:26:15,507 - INFO - No missing values found in the dataset
+2025-01-27 17:26:15,509 - INFO - No duplicate rows found
+2025-01-27 17:26:15,509 - INFO - Standardizing categorical data
+2025-01-27 17:26:15,511 - INFO - Categorical data standardized
+2025-01-27 17:26:15,511 - INFO - Processing date and time columns
+2025-01-27 17:26:15,549 - INFO - Date and time columns processed
+2025-01-27 17:26:15,550 - INFO - Data preprocessing completed successfully
+2025-01-27 17:26:15,578 - INFO - Starting data analysis...
+2025-01-27 17:26:15,578 - INFO - Total sales calculated: $322,966.75
+2025-01-27 17:26:15,579 - INFO - Average sales calculated: $322.97
+2025-01-27 17:26:15,580 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 17:26:15,581 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 17:26:15,582 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 17:26:15,582 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 17:26:15,583 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 17:26:15,583 - INFO - Data analysis completed successfully.
+2025-01-27 17:35:40,920 - INFO - Loading data from data/sales_data.csv
+2025-01-27 17:35:40,925 - INFO -  Preprocessing Started !!
+2025-01-27 17:35:40,926 - INFO - No missing values found in the dataset
+2025-01-27 17:35:40,929 - INFO - No duplicate rows found
+2025-01-27 17:35:40,929 - INFO - Standardizing categorical data
+2025-01-27 17:35:40,931 - INFO - Categorical data standardized
+2025-01-27 17:35:40,931 - INFO - Processing date and time columns
+2025-01-27 17:35:40,967 - INFO - Date and time columns processed
+2025-01-27 17:35:40,967 - INFO - Data preprocessing completed successfully
+2025-01-27 17:35:40,995 - INFO - Starting data analysis...
+2025-01-27 17:35:40,996 - INFO - Total sales calculated: $322,966.75
+2025-01-27 17:35:40,997 - INFO - Average sales calculated: $322.97
+2025-01-27 17:35:40,998 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 17:35:41,000 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 17:35:41,000 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 17:35:41,001 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 17:35:41,001 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 17:35:41,002 - INFO - Data analysis completed successfully.
+2025-01-27 17:35:41,512 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-27 17:35:43,963 - INFO - Loading data from data/sales_data.csv
+2025-01-27 17:35:43,969 - INFO -  Preprocessing Started !!
+2025-01-27 17:35:43,970 - INFO - No missing values found in the dataset
+2025-01-27 17:35:43,972 - INFO - No duplicate rows found
+2025-01-27 17:35:43,972 - INFO - Standardizing categorical data
+2025-01-27 17:35:43,974 - INFO - Categorical data standardized
+2025-01-27 17:35:43,974 - INFO - Processing date and time columns
+2025-01-27 17:35:44,012 - INFO - Date and time columns processed
+2025-01-27 17:35:44,013 - INFO - Data preprocessing completed successfully
+2025-01-27 17:35:44,039 - INFO - Starting data analysis...
+2025-01-27 17:35:44,039 - INFO - Total sales calculated: $322,966.75
+2025-01-27 17:35:44,040 - INFO - Average sales calculated: $322.97
+2025-01-27 17:35:44,044 - INFO - Sales by region calculated: {'Mandalay': 106197.672, 'Naypyitaw': 110568.7065, 'Yangon': 106200.3705}
+2025-01-27 17:35:44,045 - INFO - Sales by product line calculated: {'Electronic Accessories': 54337.5315, 'Fashion Accessories': 54305.895, 'Food And Beverages': 56144.844, 'Health And Beauty': 49193.739, 'Home And Lifestyle': 53861.913, 'Sports And Travel': 55122.8265}
+2025-01-27 17:35:44,046 - INFO - Sales by month calculated: {'February': 97219.374, 'January': 116291.868, 'March': 109455.507}
+2025-01-27 17:35:44,047 - INFO - Top customer types identified: {'Member': 501, 'Normal': 499}
+2025-01-27 17:35:44,048 - INFO - Payment method distribution calculated: {'Ewallet': 0.345, 'Cash': 0.344, 'Credit card': 0.311}
+2025-01-27 17:35:44,048 - INFO - Data analysis completed successfully.
