@@ -1,7 +1,7 @@
 ---
 
 # **🌟 Retail Sales Analytics Dashboard**
-![Dashboard Screenshot](https://github.com/user-attachments/assets/1f4d02ef-57fb-4f30-880c-545dc567f415)
+![12](https://github.com/user-attachments/assets/6f625d92-07c1-4443-9143-4cc384e33220)
 
 ---
 
